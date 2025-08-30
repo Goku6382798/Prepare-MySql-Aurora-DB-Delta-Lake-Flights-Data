@@ -13,15 +13,25 @@ This project demonstrates how to prepare and process flight datasets using **MyS
 
 Prepare MySql Aurora DB | Delta Lake | Flights Data
 │
+
 ├── architecture
+
 │   ├── glue_pyspark.pdf                  # Detailed project documentation
+
 │   └── Screenshot...png                  # Architecture diagram
+
 │
+
 ├── flights-data
+
 │   ├── flight_logistics.csv              # Logistics dataset
+
 │   ├── flights.csv                       # Flight details dataset
+
 │   └── passenger_experience.csv          # Passenger experience dataset
+
 │
+
 └── mysql-queries.sql                     # SQL queries for Aurora DB setup
 
 ---
